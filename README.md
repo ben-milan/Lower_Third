@@ -1,7 +1,7 @@
 # This is Lower-Third:
 
   ### How does it work:
-  Run the python File "main.py"
+  Run the python File `main.py`
   
   - Enter a number of players between 2 and 6
   - The game will prompt you to decide whether to take your chance with a random number (1-100) determining if you're in the upper two-thirds (above 33) or in the Lower Third.
